@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://chandrikadeb7.github.io/)
+[Click Here](https://mimanshaagrawal.tiiny.site/)
 
 ## An attractive portfolio website with lucid information flow for Developers!
 
@@ -17,3 +17,4 @@
 Good Luck! :+1: 
 
 :e-mail: mimanshaagrawal1998@gmail.com
+:website: https://mimanshaagrawal.tiiny.site/
