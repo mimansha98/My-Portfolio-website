@@ -16,5 +16,5 @@
 
 Good Luck! :+1: 
 
-:e-mail: mimanshaagrawal1998@gmail.com
-:website: https://mimanshaagrawal.tiiny.site/
+:e-mail: mimanshaagrawal1998@gmail.com  
+https://mimanshaagrawal.tiiny.site/
