@@ -9,7 +9,7 @@
 <p align="center"> 
   <kbd>
   	<a href="https://chandrikadeb7.github.io/" target="_blank">
-		<img src="image.png"></img>
+		<img src="Screenshot (21).png"></img>
 	</a>
   </kbd>
 </p>
