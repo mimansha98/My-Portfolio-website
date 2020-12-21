@@ -3,7 +3,7 @@
 ### Click below to view my portfolio website
 [Click Here](https://mimanshaagrawal.tiiny.site/)
 
-## An attractive portfolio website with lucid information flow for Developers!
+## An attractive portfolio website for Developers!
 
 
 <p align="center"> 
