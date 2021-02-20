@@ -1,7 +1,7 @@
 # Portfolio Website
 
 ### Click below to view my portfolio website
-[Click Here](https://mimanshaagrawal.tiiny.site/)
+[Click Here](https://mimanshaagrawal.netlify.com/)
 
 ## An attractive portfolio website for Developers!
 
@@ -20,4 +20,4 @@ Good Luck! :+1:
 
 :e-mail: mimanshaagrawal1998@gmail.com  
 
-https://mimanshaagrawal.tiiny.site/
+https://mimanshaagrawal.netlify.com/
